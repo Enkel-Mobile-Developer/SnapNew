@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "845327303649",
+    "project_id": "snap2-48eaa",
+    "storage_bucket": "snap2-48eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845327303649:android:c7d6753670edf047bc88a0",
+        "android_client_info": {
+          "package_name": "com.example.snapnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845327303649-d7355hj8hllq08is125l2o50b1k2diip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.snapnew",
+            "certificate_hash": "e91ce17022ac43fc61c5f4c929cf4a49ee9dca50"
+          }
+        },
+        {
+          "client_id": "845327303649-qrmj2p5sgt2mrvm6oin77cfda07v8enu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3pxNb5lF80rXr-APJv9NVDyHKnoSrix4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845327303649-qrmj2p5sgt2mrvm6oin77cfda07v8enu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
